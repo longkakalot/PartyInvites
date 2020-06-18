@@ -18,6 +18,7 @@ namespace PartyInvites.Controllers
 
         public IActionResult About()
         {
+            string a = "ABC";
             return View();
         }
         
