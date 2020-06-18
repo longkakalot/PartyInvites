@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\PartyInvites.csproj": {}
+    "D:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\PartyInvites.csproj": {}
   },
   "projects": {
-    "d:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\PartyInvites.csproj": {
+    "D:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\PartyInvites.csproj",
+        "projectUniqueName": "D:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "d:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\PartyInvites.csproj",
+        "projectPath": "D:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\PartyInvites.csproj",
         "packagesPath": "C:\\Users\\Long\\.nuget\\packages\\",
-        "outputPath": "d:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\obj\\",
+        "outputPath": "D:\\.net core\\Ebook Pro ASP core 3\\PartyInvites\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
