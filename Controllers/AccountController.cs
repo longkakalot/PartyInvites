@@ -19,6 +19,7 @@ namespace PartyInvites.Controllers
         public IActionResult About()
         {
             string a = "asdfasdf";
+            ViewBag.a = a;
             return View();
         }
         
